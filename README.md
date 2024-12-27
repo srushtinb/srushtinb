@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @srushtinb
-- 👀 I’m interested in Coding and adapting to new skills and technology
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m SRUSHTI NB
+- I’m interested in Coding and adapting to new skills and technology
+- MERN|Web Development|JAVA leaner from INDIA
+- Currently persuing Bachelor's degree in Computer Science and Engineering
+- I Love to learn new technologies.
 - 📫 How to reach me Email:srushtiinb@gmail.com
 - 😄 Pronouns: she/her
 
