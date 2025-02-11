@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br>    👋 Hi, I’m SRUSHTI NB<br>    I’m interested in Coding and adapting to new skills and technology<br>    MERN|Web Development|JAVA leaner from INDIA<br>    Currently persuing Bachelor's degree in Computer Science and Engineering<br>    I Love to learn new technologies.<br>    📫 How to reach me Email:srushtiinb@gmail.com<br>    😄 Pronouns: she/her<br><br>
 
 
