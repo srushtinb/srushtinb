@@ -13,7 +13,7 @@
 - ## connect me:
 -  Gmail : srushtiicse@gmail.com
 -  Linkedin : [https://www.linkedin.com/in/srushtinb/](https://www.linkedin.com/in/srushtinb/)
-- ✨Instagram : [https://instagram.com/srushtii__._](https://www.instagram.com/srushtii__._/)
+-  Instagram : [https://instagram.com/srushtii__._](https://www.instagram.com/srushtii__._/)
 
   
 
