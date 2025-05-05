@@ -23,7 +23,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=C)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=Terminal)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
