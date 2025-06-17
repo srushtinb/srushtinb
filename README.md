@@ -31,6 +31,21 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 
+## 📊 GitHub Contribution Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtinb&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srushtinb&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtinb&layout=compact&theme=github_dark&hide_border=true&count_private=true" />
+</p>
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
   <img src="http://github-readme-streak-stats.herokuapp.com?user=srushtinb&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"><img src="https://github-readme-stats.vercel.app/api?username=srushtinb&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats">
