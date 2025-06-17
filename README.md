@@ -4,14 +4,14 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Hello! I'm SRUSHTI N B
-- 👀 I’m interested in Web Development (JavaScript, MERN Stack, Next.js) & Problem Solving (DSA-Java)
-- 🌱 I’m currently pursuing BE in COMPUTER SCIENCE
-- 💞️ I’m looking to collaborate on interesting development projects.
+-  I’m interested in Web Development (JavaScript, MERN Stack, Next.js) & Problem Solving (DSA-Java)
+-  I’m currently pursuing BE in COMPUTER SCIENCE
+-  I’m looking to collaborate on interesting development projects.
   
-## 🌎 Connect with me:
-- 📫 Gmail : srushtiicse@gmail.com
-- 💼 Linkedin : [https://www.linkedin.com/in/srushtinb/](https://www.linkedin.com/in/srushtinb/)
-- ✨ Instagram : [https://instagram.com/srushtii__._](https://www.instagram.com/srushtii__._/)
+##  Connect with me:
+-   Gmail : srushtiicse@gmail.com
+-   Linkedin : [https://www.linkedin.com/in/srushtinb/](https://www.linkedin.com/in/srushtinb/)
+-   Instagram : [https://instagram.com/srushtii__._](https://www.instagram.com/srushtii__._/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
