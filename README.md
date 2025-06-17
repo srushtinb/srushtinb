@@ -32,7 +32,9 @@
 
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=srushtinb&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"><img src="https://github-readme-stats.vercel.app/api?username=srushtinb&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats">
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--<img alt="Srushti N B's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=srushtinb&theme=react-dark&area=true" width="100%">-->
 <a> 
