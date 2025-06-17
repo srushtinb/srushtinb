@@ -19,7 +19,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-vscode-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)
+![](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
