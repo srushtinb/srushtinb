@@ -27,15 +27,8 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ashwinigadad&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"><img src="https://github-readme-stats.vercel.app/api?username=Ashwinigadad&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=srushtinb&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"><img src="https://github-readme-stats.vercel.app/api?username=srushtinb&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats">
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-<!--<img alt="Ashwini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashwinigadad&theme=react-dark&area=true" width="100%">-->
-<a> 
-<!--<img src="https://github.com/Ashwinigadad/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Ashwinigadad/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> -->
-</a>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
