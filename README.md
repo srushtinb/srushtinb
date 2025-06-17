@@ -36,6 +36,14 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+<!--<img alt="Srushti N B's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=srushtinb&theme=react-dark&area=true" width="100%">-->
+<a> 
+<!--<img src="https://github.com/srushtinb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/srushtinb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> -->
+</a>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinigadad&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true" /><br/><br/><br/><br/><br/><br/>
 
