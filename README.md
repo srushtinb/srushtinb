@@ -29,10 +29,10 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=srushtinb&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=srushtinb&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -47,4 +47,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=srushtinb&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" alt="GitHub Trophies" />
 </p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
