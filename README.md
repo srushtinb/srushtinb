@@ -1,23 +1,24 @@
 # HELLO!!! 👋
 ![](https://komarev.com/ghpvc/?username=srushtinb&color=brightgreen&style=plastic)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-- Hello! I'm SRUSHTI N B
-- I’m interested in WEB DEVELOPMENT (JavaScript, MERN, Next.js) and problem solving (DSA-JAVA)
+- Hello! Am SRUHSTI N B
+- I’m interested in WEB DEVELOPMENT (JavaScript, MERN, Next.js) & Problem Solving (DSA - JAVA)
 - I’m currently pursuing BE in COMPUTER SCIENCE
-- ## Connect with me:
-  - 📫 Gmail : srushtiicse@gmail.com
-  - 💼 Linkedin : [https://www.linkedin.com/in/srushtinb/](https://www.linkedin.com/in/srushtinb/)
-  - ✨ Instagram : [https://instagram.com/srushtii__._](https://www.instagram.com/srushtii__._/)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📬 Connect with me:
+- 📧 Gmail: srushtiicse@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/srushtinb/](https://www.linkedin.com/in/srushtinb/)
+- ✨ Instagram: [https://instagram.com/srushtii__._](https://www.instagram.com/srushtii__._/)
 
-### ⚙️ Languages and Tools:
+---
 
-![visual studio code](https://img.shields.io/badge/-vscode-333333?style=flat&logo=visual-studio-code&logoColor=blue)
+## ⚙️ Languages and Tools:
+
+![VS Code](https://img.shields.io/badge/-vscode-333333?style=flat&logo=Visual-studio-code&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=blue)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -27,7 +28,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 📊 GitHub Stats:
 
@@ -46,4 +47,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=srushtinb&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" alt="GitHub Trophies" />
 </p>
-
