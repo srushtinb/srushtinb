@@ -1,6 +1,3 @@
-<!---
-##my status
---->
 # HELLO!!! 👋
 ![](https://komarev.com/ghpvc/?username=srushtinb&color=brightgreen&styl=plastic)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -29,27 +26,21 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ashwinigadad&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"><img src="https://github-readme-stats.vercel.app/api?username=Ashwinigadad&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats">
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## 📊 GitHub Contribution Stats
+<!--<img alt="Ashwini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashwinigadad&theme=react-dark&area=true" width="100%">-->
+<a> 
+<!--<img src="https://github.com/Ashwinigadad/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Ashwinigadad/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /> -->
+</a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtinb&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srushtinb&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtinb&layout=compact&theme=github_dark&hide_border=true&count_private=true" />
-</p>
-
-
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinigadad&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true" /><br/><br/><br/><br/><br/><br/>
 
 
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=srushtinb&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=Ashwinigadad&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
