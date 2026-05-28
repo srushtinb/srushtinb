@@ -9,9 +9,9 @@
 -  I’m looking to collaborate on interesting development projects.
   
 ##  Connect with me:
--   Gmail : srushtiicse@gmail.com
+-   Gmail : srushtinb08@gmail.com
 -   Linkedin : [https://www.linkedin.com/in/srushtinb/](https://www.linkedin.com/in/srushtinb/)
--   Instagram : [https://instagram.com/srushtii__._](https://www.instagram.com/srushtii__._/)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
