@@ -4,8 +4,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Hello! I'm SRUSHTI N B
--  I’m interested in Web Development (JavaScript, MERN Stack, Next.js) & Problem Solving (DSA-Java)
--  I’m currently pursuing BE in COMPUTER SCIENCE
+-  I’m interested in Web Development (JavaScript, MERN Stack, Next.js) & Problem Solving (DSA-Python).
+-  COMPUTER SCIENCE ENGINEERING graduate.
 -  I’m looking to collaborate on interesting development projects.
   
 ##  Connect with me:
